@@ -1,0 +1,2 @@
+start
+place B1 on the left side and B2 on the right side
